@@ -1,0 +1,3602 @@
+[
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "light-darkXX.rankings",
+  "weak": "dim",
+  "strong": "dark",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "major-bigXX.rankings",
+  "weak": "major",
+  "strong": "staggering",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "friendly-unfriendlyXX.rankings",
+  "weak": "cool",
+  "strong": "hostile",
+  "opp": "friendly"
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "miniscule-minuteXX.rankings",
+  "weak": "minute",
+  "strong": "miniscule",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "comprehensive-generalXX.rankings",
+  "weak": "general",
+  "strong": "comprehensive",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXpossible-impossible.rankings",
+  "weak": "possible",
+  "strong": "feasible",
+  "opp": "impractical"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXstimulating-unexciting.rankings",
+  "weak": "moving",
+  "strong": "exciting",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "distant-closeXX.rankings",
+  "weak": "near",
+  "strong": "intimate",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "superior-inferiorXX.rankings",
+  "weak": "cheap",
+  "strong": "worst",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "successful-unsuccessfulXX.rankings",
+  "weak": "disappointed",
+  "strong": "defeated",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "enraged-irritatedXX.rankings",
+  "weak": "upset",
+  "strong": "angry",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "hot-coldXX.rankings",
+  "weak": "chilly",
+  "strong": "frozen",
+  "opp": "warm"
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "fine-remarkableXX.rankings",
+  "weak": "fine",
+  "strong": "spectacular",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXvalid-invalid.rankings",
+  "weak": "reasonable",
+  "strong": "valid",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "satisfactory-excellentXX.rankings",
+  "weak": "appropriate",
+  "strong": "excellent",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "incorrect-unfavourableXX.rankings",
+  "weak": "improper",
+  "strong": "unsatisfactory",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "comprehensive-generalXX.rankings",
+  "weak": "commonplace",
+  "strong": "universal",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "scant-meagreXX.rankings",
+  "weak": "few",
+  "strong": "limited",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXvalid-invalid.rankings",
+  "weak": "valid",
+  "strong": "sound",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXsugary-nonsweet.rankings",
+  "weak": "sweet",
+  "strong": "sugary",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "wide-ranging-generalXX.rankings",
+  "weak": "broad",
+  "strong": "diverse",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXserious-frivolous.rankings",
+  "weak": "serious",
+  "strong": "grave",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXhigh-low.rankings",
+  "weak": "high",
+  "strong": "higher",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXnoxious-innocuous.rankings",
+  "weak": "toxic",
+  "strong": "deadly",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "big-littleXX.rankings",
+  "weak": "minute",
+  "strong": "micro",
+  "opp": "sizeable"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "comfortable-uncomfortableXX.rankings",
+  "weak": "uneasy",
+  "strong": "painful",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "clean-dirtyXX.rankings",
+  "weak": "profane",
+  "strong": "obscene",
+  "opp": "clean"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "fat-leanXX.rankings",
+  "weak": "lean",
+  "strong": "emaciated",
+  "opp": "overweight"
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "efficient-potentXX.rankings",
+  "weak": "efficient",
+  "strong": "optimum",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "loose-tightXX.rankings",
+  "weak": "close",
+  "strong": "tight",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "attractive-unattractiveXX.rankings",
+  "weak": "plain",
+  "strong": "unattractive",
+  "opp": "attractive"
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "XXgood-bad.rankings",
+  "weak": "good",
+  "strong": "great",
+  "opp": "bad"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXnecessary-unnecessary.rankings",
+  "weak": "necessary",
+  "strong": "required",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "bad-horrendousXX.rankings",
+  "weak": "bad",
+  "strong": "horrendous",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "sane-insaneXX.rankings",
+  "weak": "unstable",
+  "strong": "crazy",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "noticed-unnoticedXX.rankings",
+  "weak": "ignored",
+  "strong": "forgotten",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "many-fewXX.rankings",
+  "weak": "few",
+  "strong": "fewer",
+  "opp": "some"
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "huge-tremendousXX.rankings",
+  "weak": "major",
+  "strong": "colossal",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "good-badXX.rankings",
+  "weak": "hard",
+  "strong": "hopeless",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "favorable-unfavorableXX.rankings",
+  "weak": "critical",
+  "strong": "hostile",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "major-bigXX.rankings",
+  "weak": "big",
+  "strong": "staggering",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "difficult-easyXX.rankings",
+  "weak": "simple",
+  "strong": "effortless",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "fine-remarkableXX.rankings",
+  "weak": "remarkable",
+  "strong": "spectacular",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "current-noncurrentXX.rankings",
+  "weak": "old",
+  "strong": "obsolete",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "XXdry-wet.rankings",
+  "weak": "dry",
+  "strong": "arid",
+  "opp": "damp"
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "smart-stupidXX.rankings",
+  "weak": "dumb",
+  "strong": "idiotic",
+  "opp": "smart"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXintelligent-stupid.rankings",
+  "weak": "smart",
+  "strong": "brilliant",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "huge-broadXX.rankings",
+  "weak": "huge",
+  "strong": "immense",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "bad-horrendousXX.rankings",
+  "weak": "horrific",
+  "strong": "horrendous",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "difficult-easyXX.rankings",
+  "weak": "smooth",
+  "strong": "painless",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "smooth-roughXX.rankings",
+  "weak": "cracked",
+  "strong": "crushed",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXbeautiful-ugly.rankings",
+  "weak": "handsome",
+  "strong": "pretty",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "virtuous-wickedXX.rankings",
+  "weak": "wrong",
+  "strong": "immoral",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXample-meager.rankings",
+  "weak": "sufficient",
+  "strong": "wide",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "scant-meagreXX.rankings",
+  "weak": "few",
+  "strong": "meagre",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "huge-tremendousXX.rankings",
+  "weak": "huge",
+  "strong": "formidable",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "distant-closeXX.rankings",
+  "weak": "close",
+  "strong": "near",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "big-vastXX.rankings",
+  "weak": "big",
+  "strong": "extensive",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXecht-counterfeit.rankings",
+  "weak": "good",
+  "strong": "real",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "cardinal-ordinalXX.rankings",
+  "weak": "first",
+  "strong": "third",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXlike-unlike.rankings",
+  "weak": "like",
+  "strong": "equal",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "finest-excellentXX.rankings",
+  "weak": "excellent",
+  "strong": "outstanding",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "major-staggeringXX.rankings",
+  "weak": "substantial",
+  "strong": "tremendous",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "cute-gorgeousXX.rankings",
+  "weak": "cute",
+  "strong": "gorgeous",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXknown-unknown.rankings",
+  "weak": "known",
+  "strong": "famous",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXquiet-noisy.rankings",
+  "weak": "quiet",
+  "strong": "inaudible",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXmature-green.rankings",
+  "weak": "ripe",
+  "strong": "overripe",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "careful-carelessXX.rankings",
+  "weak": "negligent",
+  "strong": "careless",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXavailable-unavailable.rankings",
+  "weak": "available",
+  "strong": "visible",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "audible-inaudibleXX.rankings",
+  "weak": "quiet",
+  "strong": "imperceptible",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "open-closedXX.rankings",
+  "weak": "closed",
+  "strong": "shut",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "XXsmall-large.rankings",
+  "weak": "tiny",
+  "strong": "miniscule",
+  "opp": "big"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXsurprising-unsurprising.rankings",
+  "weak": "unexpected",
+  "strong": "astonishing",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "known-noteworthyXX.rankings",
+  "weak": "known",
+  "strong": "noteworthy",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "sane-insaneXX.rankings",
+  "weak": "crazy",
+  "strong": "insane",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "big-littleXX.rankings",
+  "weak": "small",
+  "strong": "micro",
+  "opp": "sizeable"
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "few-manyXX.rankings",
+  "weak": "few",
+  "strong": "several",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "enraged-irritatedXX.rankings",
+  "weak": "upset",
+  "strong": "enraged",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "costly-valuableXX.rankings",
+  "weak": "costly",
+  "strong": "exorbitant",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "loose-tightXX.rankings",
+  "weak": "tight",
+  "strong": "snug",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXfar-close.rankings",
+  "weak": "further",
+  "strong": "removed",
+  "opp": "nearby"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXsugary-nonsweet.rankings",
+  "weak": "sugary",
+  "strong": "syrupy",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "better-exceptionalXX.rankings",
+  "weak": "good",
+  "strong": "perfect",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXtasty-tasteless.rankings",
+  "weak": "flavorful",
+  "strong": "spicy",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "little-feebleXX.rankings",
+  "weak": "little",
+  "strong": "feeble",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "fortunate-unfortunateXX.rankings",
+  "weak": "disastrous",
+  "strong": "fatal",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "honest-dishonestXX.rankings",
+  "weak": "deceptive",
+  "strong": "false",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXcontent-discontent.rankings",
+  "weak": "satisfied",
+  "strong": "pleased",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "hot-coldXX.rankings",
+  "weak": "cold",
+  "strong": "freezing",
+  "opp": "warm"
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "embarrassing-uncomfortableXX.rankings",
+  "weak": "uncomfortable",
+  "strong": "embarrassing",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "competent-impressiveXX.rankings",
+  "weak": "competent",
+  "strong": "impressive",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "lousy-miserableXX.rankings",
+  "weak": "lousy",
+  "strong": "miserable",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXcomposed-discomposed.rankings",
+  "weak": "calm",
+  "strong": "serene",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "excited-delightedXX.rankings",
+  "weak": "pleased",
+  "strong": "delighted",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "perfect-wellXX.rankings",
+  "weak": "awesome",
+  "strong": "perfect",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "abundant-plentyXX.rankings",
+  "weak": "vast",
+  "strong": "abundant",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "known-noteworthyXX.rankings",
+  "weak": "known",
+  "strong": "celebrated",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "marvellous-spectacularXX.rankings",
+  "weak": "pretty",
+  "strong": "breathtaking",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "convenient-valuableXX.rankings",
+  "weak": "useful",
+  "strong": "worthwhile",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "few-manyXX.rankings",
+  "weak": "several",
+  "strong": "many",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "far-closeXX.rankings",
+  "weak": "close",
+  "strong": "adjacent",
+  "opp": "far"
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "smart-stupidXX.rankings",
+  "weak": "dumb",
+  "strong": "stupid",
+  "opp": "smart"
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "appropriate-excellentXX.rankings",
+  "weak": "fine",
+  "strong": "satisfactory",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "poor-inadequateXX.rankings",
+  "weak": "scarce",
+  "strong": "inadequate",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "appropriate-excellentXX.rankings",
+  "weak": "fine",
+  "strong": "excellent",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "superior-inferiorXX.rankings",
+  "weak": "mediocre",
+  "strong": "worst",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "proficient-trainedXX.rankings",
+  "weak": "capable",
+  "strong": "proficient",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "small-largeXX.rankings",
+  "weak": "big",
+  "strong": "gigantic",
+  "opp": "small"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXfar-close.rankings",
+  "weak": "far",
+  "strong": "removed",
+  "opp": "nearby"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXnecessary-unnecessary.rankings",
+  "weak": "needed",
+  "strong": "essential",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXbeautiful-ugly.rankings",
+  "weak": "lovely",
+  "strong": "attractive",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXprivate-public.rankings",
+  "weak": "personal",
+  "strong": "private",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "miniscule-minuteXX.rankings",
+  "weak": "small",
+  "strong": "miniscule",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXknown-unknown.rankings",
+  "weak": "known",
+  "strong": "legendary",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "excessive-hugeXX.rankings",
+  "weak": "much",
+  "strong": "huge",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "daunting-formidableXX.rankings",
+  "weak": "tough",
+  "strong": "formidable",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "dry-wetXX.rankings",
+  "weak": "damp",
+  "strong": "moist",
+  "opp": "dry"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXstrange-familiar.rankings",
+  "weak": "unusual",
+  "strong": "weird",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "hopeful-hopelessXX.rankings",
+  "weak": "desperate",
+  "strong": "hopeless",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "daunting-formidableXX.rankings",
+  "weak": "tough",
+  "strong": "daunting",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "lousy-miserableXX.rankings",
+  "weak": "lousy",
+  "strong": "horrible",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "sane-insaneXX.rankings",
+  "weak": "unstable",
+  "strong": "insane",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXconcerned-unconcerned.rankings",
+  "weak": "concerned",
+  "strong": "obsessed",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXfriendly-unfriendly.rankings",
+  "weak": "warm",
+  "strong": "intimate",
+  "opp": "cool"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXcomprehensive-incomprehensive.rankings",
+  "weak": "nationwide",
+  "strong": "worldwide",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "beneficial-niceXX.rankings",
+  "weak": "okay",
+  "strong": "incredible",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "huge-broadXX.rankings",
+  "weak": "big",
+  "strong": "huge",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "cardinal-ordinalXX.rankings",
+  "weak": "fourth",
+  "strong": "sixth",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "efficient-functioningXX.rankings",
+  "weak": "functioning",
+  "strong": "efficient",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "favorable-unfavorableXX.rankings",
+  "weak": "negative",
+  "strong": "hostile",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "different-sameXX.rankings",
+  "weak": "similar",
+  "strong": "same",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "hot-coldXX.rankings",
+  "weak": "warm",
+  "strong": "freezing",
+  "opp": "warm"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXsatisfactory-unsatisfactory.rankings",
+  "weak": "alright",
+  "strong": "right",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "rigorous-tougherXX.rankings",
+  "weak": "tougher",
+  "strong": "stringent",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "guaranteed-adequateXX.rankings",
+  "weak": "fine",
+  "strong": "good",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXinteresting-uninteresting.rankings",
+  "weak": "intriguing",
+  "strong": "amusing",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "fine-remarkable2XX.rankings",
+  "weak": "fine",
+  "strong": "impressive",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "fat-leanXX.rankings",
+  "weak": "skinny",
+  "strong": "skeletal",
+  "opp": "overweight"
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "dry-wetXX.rankings",
+  "weak": "damp",
+  "strong": "wet",
+  "opp": "dry"
+ },
+ {
+  "lang": "en",
+  "src": "crowd",
+  "scale": "clear-prominentXX.rankings",
+  "weak": "clear",
+  "strong": "prominent",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXhappy-unhappy.rankings",
+  "weak": "content",
+  "strong": "euphoric",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "loud-softXX.rankings",
+  "weak": "subdued",
+  "strong": "quiet",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXstimulating-unexciting.rankings",
+  "weak": "exciting",
+  "strong": "thrilling",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXcomprehensive-incomprehensive.rankings",
+  "weak": "statewide",
+  "strong": "worldwide",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "attractive-unattractiveXX.rankings",
+  "weak": "plain",
+  "strong": "ugly",
+  "opp": "attractive"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "mild-intenseXX.rankings",
+  "weak": "strong",
+  "strong": "violent",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "difficult-easyXX.rankings",
+  "weak": "easy",
+  "strong": "painless",
+  "opp": null
+ },
+ {
+  "lang": "en",
+  "src": "wilkinson",
+  "scale": "good-badXX.rankings",
+  "weak": "awful",
+  "strong": "terrible",
+  "opp": "good"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "XXfar-close.rankings",
+  "weak": "far",
+  "strong": "farther",
+  "opp": "nearby"
+ },
+ {
+  "lang": "en",
+  "src": "demelo",
+  "scale": "superior-inferiorXX.rankings",
+  "weak": "mediocre",
+  "strong": "bad",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "XXgood-bad.rankings",
+  "weak": "bueno",
+  "strong": "fantástico",
+  "opp": "malo"
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "XXbeautiful-ugly.rankings",
+  "weak": "bonito",
+  "strong": "bello",
+  "opp": "feo"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXcomprehensive-incomprehensive.rankings",
+  "weak": "estatal",
+  "strong": "nacional",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "smooth-roughXX.rankings",
+  "weak": "roto",
+  "strong": "machacado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXgeneral-specific.rankings",
+  "weak": "extendido",
+  "strong": "universal",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "mild-intenseXX.rankings",
+  "weak": "terrible",
+  "strong": "abrumador",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "distant-closeXX.rankings",
+  "weak": "cercano",
+  "strong": "estrecho",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "national-internationalXX.rankings",
+  "weak": "multinacional",
+  "strong": "global",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "cardinal-ordinalXX.rankings",
+  "weak": "quinto",
+  "strong": "sexto",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "fit-unfitXX.rankings",
+  "weak": "indispuesto",
+  "strong": "enfermo",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXbloody-bloodless.rankings",
+  "weak": "violento",
+  "strong": "homicida",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "fat-leanXX.rankings",
+  "weak": "esbelto",
+  "strong": "delgado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "smart-stupidXX.rankings",
+  "weak": "tonto",
+  "strong": "idiota",
+  "opp": "listo"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "expensive-cheapXX.rankings",
+  "weak": "asequible",
+  "strong": "económico",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "proud-humbleXX.rankings",
+  "weak": "ridiculizado",
+  "strong": "humillado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "hopeful-hopelessXX.rankings",
+  "weak": "desalentador",
+  "strong": "desesperado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXfar-close.rankings",
+  "weak": "apartado",
+  "strong": "remoto",
+  "opp": "cercano"
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "dry-wetXX.rankings",
+  "weak": "húmedo",
+  "strong": "empapado",
+  "opp": "seco"
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "small-largeXX.rankings",
+  "weak": "grande",
+  "strong": "grandísimo",
+  "opp": "pequeño"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "dispensable-indispensableXX.rankings",
+  "weak": "vital",
+  "strong": "crítico",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXlike-unlike.rankings",
+  "weak": "parecido",
+  "strong": "igual",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "friendly-unfriendlyXX.rankings",
+  "weak": "desagradable",
+  "strong": "hostil",
+  "opp": "cordial"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXserious-frivolous.rankings",
+  "weak": "serio",
+  "strong": "grave",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "XXsmall-large.rankings",
+  "weak": "pequeño",
+  "strong": "minúsculo",
+  "opp": "grande"
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "few-manyXX.rankings",
+  "weak": "pocos",
+  "strong": "muchos",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXample-meager.rankings",
+  "weak": "suficiente",
+  "strong": "amplio",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "common-uncommonXX.rankings",
+  "weak": "extraordinario",
+  "strong": "excepcional",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXtasty-tasteless.rankings",
+  "weak": "sabroso",
+  "strong": "fuerte",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "dry-wetXX.rankings",
+  "weak": "mojado",
+  "strong": "empapado",
+  "opp": "seco"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXpossible-impossible.rankings",
+  "weak": "realista",
+  "strong": "práctico",
+  "opp": "impracticable"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "light-darkXX.rankings",
+  "weak": "sombrío",
+  "strong": "tenebroso",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "XXbright-dark.rankings",
+  "weak": "luminoso",
+  "strong": "brillante",
+  "opp": "sombrío"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "many-fewXX.rankings",
+  "weak": "algunos",
+  "strong": "pocos",
+  "opp": "algunos"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "distant-closeXX.rankings",
+  "weak": "estrecho",
+  "strong": "íntimo",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXstimulating-unexciting.rankings",
+  "weak": "emotivo",
+  "strong": "emocionante",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "virtuous-wickedXX.rankings",
+  "weak": "inmoral",
+  "strong": "ilícito",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "virtuous-wickedXX.rankings",
+  "weak": "inmoral",
+  "strong": "maligno",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXinvolved-uninvolved.rankings",
+  "weak": "implicado",
+  "strong": "involucrado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "hot-coldXX.rankings",
+  "weak": "tibio",
+  "strong": "frío",
+  "opp": "tibio"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXinvolved-uninvolved.rankings",
+  "weak": "interesado",
+  "strong": "implicado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXfriendly-unfriendly.rankings",
+  "weak": "cordial",
+  "strong": "cariñoso",
+  "opp": "frío"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "honest-dishonestXX.rankings",
+  "weak": "fraudulento",
+  "strong": "falso",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "current-noncurrentXX.rankings",
+  "weak": "anticuado",
+  "strong": "obsoleto",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "good-badXX.rankings",
+  "weak": "malo",
+  "strong": "terrible",
+  "opp": "bueno"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXgeneral-specific.rankings",
+  "weak": "extendido",
+  "strong": "común",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "difficult-easyXX.rankings",
+  "weak": "fácil",
+  "strong": "sencillo",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXfriendly-unfriendly.rankings",
+  "weak": "cordial",
+  "strong": "íntimo",
+  "opp": "frío"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXintelligent-stupid.rankings",
+  "weak": "listo",
+  "strong": "brillante",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "noticed-unnoticedXX.rankings",
+  "weak": "desatendido",
+  "strong": "ignorado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "possible-impossibleXX.rankings",
+  "weak": "impracticable",
+  "strong": "irrealizable",
+  "opp": "posible"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXvalid-invalid.rankings",
+  "weak": "válido",
+  "strong": "sólido",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXprivate-public.rankings",
+  "weak": "personal",
+  "strong": "privado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "new-oldXX.rankings",
+  "weak": "viejo",
+  "strong": "antiguo",
+  "opp": "fresco"
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "smart-stupidXX.rankings",
+  "weak": "tonto",
+  "strong": "estúpido",
+  "opp": "listo"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "comfortable-uncomfortableXX.rankings",
+  "weak": "molesto",
+  "strong": "doloroso",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXpossible-impossible.rankings",
+  "weak": "posible",
+  "strong": "factible",
+  "opp": "impracticable"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "many-fewXX.rankings",
+  "weak": "pocos",
+  "strong": "menos",
+  "opp": "algunos"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "clean-dirtyXX.rankings",
+  "weak": "indecente",
+  "strong": "obsceno",
+  "opp": "limpio"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXhot-cold.rankings",
+  "weak": "tibio",
+  "strong": "sofocante",
+  "opp": "fresco"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "mild-intenseXX.rankings",
+  "weak": "abrumador",
+  "strong": "violento",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXserious-frivolous.rankings",
+  "weak": "real",
+  "strong": "grave",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "XXdry-wet.rankings",
+  "weak": "seco",
+  "strong": "reseco",
+  "opp": "húmedo"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXprivate-public.rankings",
+  "weak": "privado",
+  "strong": "secreto",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "beautiful-uglyXX.rankings",
+  "weak": "feo",
+  "strong": "horrible",
+  "opp": "bonito"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXattractive-unattractive.rankings",
+  "weak": "atractivo",
+  "strong": "seductor",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "friendly-unfriendlyXX.rankings",
+  "weak": "frío",
+  "strong": "hostil",
+  "opp": "cordial"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "light-darkXX.rankings",
+  "weak": "sombrío",
+  "strong": "oscuro",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "XXdifficult-easy.rankings",
+  "weak": "duro",
+  "strong": "difícil",
+  "opp": "fácil"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "fit-unfitXX.rankings",
+  "weak": "enfermo",
+  "strong": "discapacitado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXecht-counterfeit.rankings",
+  "weak": "verdadero",
+  "strong": "auténtico",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXattractive-unattractive.rankings",
+  "weak": "guapo",
+  "strong": "seductor",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXhappy-unhappy.rankings",
+  "weak": "contento",
+  "strong": "eufórico",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXample-meager.rankings",
+  "weak": "bastante",
+  "strong": "amplio",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "proud-humbleXX.rankings",
+  "weak": "humillado",
+  "strong": "destrozado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "possible-impossibleXX.rankings",
+  "weak": "impracticable",
+  "strong": "inviable",
+  "opp": "posible"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXserious-frivolous.rankings",
+  "weak": "solemne",
+  "strong": "grave",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "successful-unsuccessfulXX.rankings",
+  "weak": "frustrado",
+  "strong": "derrotado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "loose-tightXX.rankings",
+  "weak": "apretado",
+  "strong": "ceñido",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXcomposed-discomposed.rankings",
+  "weak": "calmado",
+  "strong": "sereno",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXmany-few.rankings",
+  "weak": "algunos",
+  "strong": "muchos",
+  "opp": "algunos"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "big-littleXX.rankings",
+  "weak": "pequeñísimo",
+  "strong": "minúsculo",
+  "opp": "considerable"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXcontent-discontent.rankings",
+  "weak": "contento",
+  "strong": "feliz",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXavailable-unavailable.rankings",
+  "weak": "disponible",
+  "strong": "accesible",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXclean-dirty.rankings",
+  "weak": "impoluto",
+  "strong": "inmaculado",
+  "opp": "indecente"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXinvolved-uninvolved.rankings",
+  "weak": "interesado",
+  "strong": "involucrado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXinteresting-uninteresting.rankings",
+  "weak": "intrigante",
+  "strong": "ameno",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "XXsmall-large.rankings",
+  "weak": "pequeño",
+  "strong": "diminuto",
+  "opp": "grande"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXstrange-familiar.rankings",
+  "weak": "extraño",
+  "strong": "insólito",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXalarming-unalarming.rankings",
+  "weak": "aterrador",
+  "strong": "terrorífico",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXnecessary-unnecessary.rankings",
+  "weak": "esencial",
+  "strong": "imprescindible",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXconcerned-unconcerned.rankings",
+  "weak": "angustiado",
+  "strong": "obsesionado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXbig-little.rankings",
+  "weak": "considerable",
+  "strong": "enorme",
+  "opp": "pequeño"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXecht-counterfeit.rankings",
+  "weak": "real",
+  "strong": "auténtico",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "far-closeXX.rankings",
+  "weak": "cercano",
+  "strong": "contiguo",
+  "opp": "apartado"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "mild-intenseXX.rankings",
+  "weak": "intenso",
+  "strong": "violento",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "XXbeautiful-ugly.rankings",
+  "weak": "bello",
+  "strong": "precioso",
+  "opp": "feo"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXbig-little.rankings",
+  "weak": "grande",
+  "strong": "colosal",
+  "opp": "pequeño"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXseductive-unseductive.rankings",
+  "weak": "atractivo",
+  "strong": "sexy",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "single-multipleXX.rankings",
+  "weak": "doble",
+  "strong": "triple",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "XXnew-old.rankings",
+  "weak": "fresco",
+  "strong": "nuevo",
+  "opp": "viejo"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXpossible-impossible.rankings",
+  "weak": "posible",
+  "strong": "práctico",
+  "opp": "impracticable"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXconcerned-unconcerned.rankings",
+  "weak": "preocupado",
+  "strong": "obsesionado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "common-uncommonXX.rankings",
+  "weak": "inusual",
+  "strong": "excepcional",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "sane-insaneXX.rankings",
+  "weak": "inestable",
+  "strong": "demente",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "safe-dangerousXX.rankings",
+  "weak": "arriesgado",
+  "strong": "suicida",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXprivate-public.rankings",
+  "weak": "personal",
+  "strong": "secreto",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "loose-tightXX.rankings",
+  "weak": "ajustado",
+  "strong": "apretado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXfat-lean.rankings",
+  "weak": "regordete",
+  "strong": "obeso",
+  "opp": "esbelto"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXfar-close.rankings",
+  "weak": "apartado",
+  "strong": "lejano",
+  "opp": "cercano"
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "dry-wetXX.rankings",
+  "weak": "húmedo",
+  "strong": "mojado",
+  "opp": "seco"
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "XXdry-wet.rankings",
+  "weak": "reseco",
+  "strong": "árido",
+  "opp": "húmedo"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "friendly-unfriendlyXX.rankings",
+  "weak": "arisco",
+  "strong": "desagradable",
+  "opp": "cordial"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXcontent-discontent.rankings",
+  "weak": "satisfecho",
+  "strong": "complacido",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXsurprising-unsurprising.rankings",
+  "weak": "inesperado",
+  "strong": "increíble",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXnoxious-innocuous.rankings",
+  "weak": "perjudicial",
+  "strong": "mortal",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "good-badXX.rankings",
+  "weak": "doloroso",
+  "strong": "desesperado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXfat-lean.rankings",
+  "weak": "gordo",
+  "strong": "obeso",
+  "opp": "esbelto"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "difficult-easyXX.rankings",
+  "weak": "fácil",
+  "strong": "simple",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXfull-empty.rankings",
+  "weak": "lleno",
+  "strong": "sobrecargado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "many-fewXX.rankings",
+  "weak": "algunos",
+  "strong": "menos",
+  "opp": "algunos"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXtasty-tasteless.rankings",
+  "weak": "sabroso",
+  "strong": "picante",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "successful-unsuccessfulXX.rankings",
+  "weak": "decepcionado",
+  "strong": "derrotado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "careful-carelessXX.rankings",
+  "weak": "descuidado",
+  "strong": "negligente",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXhigh-low.rankings",
+  "weak": "alto",
+  "strong": "elevado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "current-noncurrentXX.rankings",
+  "weak": "viejo",
+  "strong": "anticuado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "hot-cold2XX.rankings",
+  "weak": "fresco",
+  "strong": "helado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "careful-carelessXX.rankings",
+  "weak": "descuidado",
+  "strong": "temerario",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "few-manyXX.rankings",
+  "weak": "pocos",
+  "strong": "varios",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXalarming-unalarming.rankings",
+  "weak": "espantoso",
+  "strong": "terrorífico",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXcomprehensive-incomprehensive.rankings",
+  "weak": "nacional",
+  "strong": "mundial",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "dispensable-indispensableXX.rankings",
+  "weak": "necesario",
+  "strong": "indispensable",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "hot-coldXX.rankings",
+  "weak": "helado",
+  "strong": "congelado",
+  "opp": "tibio"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "expensive-cheapXX.rankings",
+  "weak": "asequible",
+  "strong": "barato",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXknown-unknown.rankings",
+  "weak": "conocido",
+  "strong": "famoso",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXecht-counterfeit.rankings",
+  "weak": "verdadero",
+  "strong": "real",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXmany-few.rankings",
+  "weak": "algunos",
+  "strong": "abundantes",
+  "opp": "algunos"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "safe-dangerousXX.rankings",
+  "weak": "arriesgado",
+  "strong": "peligroso",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXcomprehensive-incomprehensive2.rankings",
+  "weak": "general",
+  "strong": "universal",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "XXgood-bad.rankings",
+  "weak": "bueno",
+  "strong": "genial",
+  "opp": "malo"
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "fat-leanXX.rankings",
+  "weak": "flaco",
+  "strong": "raquítico",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "wilkinson",
+  "scale": "slow-fastXX.rankings",
+  "weak": "rápido",
+  "strong": "veloz",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXhigh-low.rankings",
+  "weak": "alto",
+  "strong": "altísimo",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXbeautiful-ugly.rankings",
+  "weak": "bonito",
+  "strong": "guapo",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "open-closedXX.rankings",
+  "weak": "cerrado",
+  "strong": "hermético",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "hot-cold2XX.rankings",
+  "weak": "fresco",
+  "strong": "congelado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "common-uncommonXX.rankings",
+  "weak": "inusual",
+  "strong": "raro",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "cardinal-ordinalXX.rankings",
+  "weak": "segundo",
+  "strong": "octavo",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "XXavailable-unavailable.rankings",
+  "weak": "disponible",
+  "strong": "visible",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "hot-cold2XX.rankings",
+  "weak": "frío",
+  "strong": "congelado",
+  "opp": null
+ },
+ {
+  "lang": "es",
+  "src": "demelo",
+  "scale": "noticed-unnoticedXX.rankings",
+  "weak": "descuidado",
+  "strong": "olvidado",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXintelligent-stupid.rankings",
+  "weak": "astucieux",
+  "strong": "brilliant",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "favorable-unfavorableXX.rankings",
+  "weak": "critique",
+  "strong": "hostile",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "noticed-unnoticedXX.rankings",
+  "weak": "délaissé",
+  "strong": "oublié",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "dispensable-indispensableXX.rankings",
+  "weak": "nécessaire",
+  "strong": "vital",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "successful-unsuccessfulXX.rankings",
+  "weak": "frustré",
+  "strong": "battu",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXavailable-unavailable.rankings",
+  "weak": "accessible",
+  "strong": "visible",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXsugary-nonsweet.rankings",
+  "weak": "doux",
+  "strong": "sirupeux",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "superior-inferiorXX.rankings",
+  "weak": "médiocre",
+  "strong": "mauvais",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXinteresting-uninteresting.rankings",
+  "weak": "divertissant",
+  "strong": "fascinant",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "common-uncommonXX.rankings",
+  "weak": "rare",
+  "strong": "extraordinaire",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "cardinal-ordinalXX.rankings",
+  "weak": "sixième",
+  "strong": "huitième",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "smooth-roughXX.rankings",
+  "weak": "fendu",
+  "strong": "cassé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXinteresting-uninteresting.rankings",
+  "weak": "intriguant",
+  "strong": "passionnant",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "XXgood-bad.rankings",
+  "weak": "bon",
+  "strong": "impressionnant",
+  "opp": "mauvais"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXprivate-public.rankings",
+  "weak": "privé",
+  "strong": "secret",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXbeautiful-ugly.rankings",
+  "weak": "attirant",
+  "strong": "superbe",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "sane-insaneXX.rankings",
+  "weak": "fou",
+  "strong": "dément",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXecht-counterfeit.rankings",
+  "weak": "bon",
+  "strong": "réel",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "slow-fastXX.rankings",
+  "weak": "rapide",
+  "strong": "prompt",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "slow-fastXX.rankings",
+  "weak": "agile",
+  "strong": "prompt",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "good-badXX.rankings",
+  "weak": "terrible",
+  "strong": "horrible",
+  "opp": "bon"
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "new-oldXX.rankings",
+  "weak": "vieux",
+  "strong": "ancien",
+  "opp": "frais"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXconcerned-unconcerned.rankings",
+  "weak": "inquiet",
+  "strong": "obsédé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXavailable-unavailable.rankings",
+  "weak": "disponible",
+  "strong": "accessible",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "hot-cold2XX.rankings",
+  "weak": "frais",
+  "strong": "gelé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "audible-inaudibleXX.rankings",
+  "weak": "calme",
+  "strong": "inaudible",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "attractive-unattractiveXX.rankings",
+  "weak": "laid",
+  "strong": "moche",
+  "opp": "attirant"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXstimulating-unexciting.rankings",
+  "weak": "intéressant",
+  "strong": "émouvant",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "comfortable-uncomfortableXX.rankings",
+  "weak": "gêné",
+  "strong": "pénible",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXgeneral-specific.rankings",
+  "weak": "étendu",
+  "strong": "général",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXserious-frivolous.rankings",
+  "weak": "sérieux",
+  "strong": "grave",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "successful-unsuccessfulXX.rankings",
+  "weak": "déçu",
+  "strong": "vaincu",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "loose-tightXX.rankings",
+  "weak": "proche",
+  "strong": "serré",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "loud-softXX.rankings",
+  "weak": "adouci",
+  "strong": "silencieux",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "proud-humbleXX.rankings",
+  "weak": "abaissé",
+  "strong": "écrasé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "far-closeXX.rankings",
+  "weak": "proche",
+  "strong": "adjacent",
+  "opp": "lointain"
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "XXbeautiful-ugly.rankings",
+  "weak": "beau",
+  "strong": "magnifique",
+  "opp": "moche"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "proud-humbleXX.rankings",
+  "weak": "abaissé",
+  "strong": "mortifié",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXfull-empty.rankings",
+  "weak": "rempli",
+  "strong": "surchargé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "careful-carelessXX.rankings",
+  "weak": "négligent",
+  "strong": "téméraire",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXcomprehensive-incomprehensive.rankings",
+  "weak": "régional",
+  "strong": "universel",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "dry-wetXX.rankings",
+  "weak": "moite",
+  "strong": "humide",
+  "opp": "sec"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "honest-dishonestXX.rankings",
+  "weak": "fallacieux",
+  "strong": "faux",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "friendly-unfriendlyXX.rankings",
+  "weak": "froid",
+  "strong": "antipathique",
+  "opp": "amical"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "clean-dirtyXX.rankings",
+  "weak": "indécent",
+  "strong": "obscène",
+  "opp": "propre"
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "XXnew-old.rankings",
+  "weak": "frais",
+  "strong": "nouveau",
+  "opp": "vieux"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXattractive-unattractive.rankings",
+  "weak": "beau",
+  "strong": "captivant",
+  "opp": "quelconque"
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "XXgood-bad.rankings",
+  "weak": "bon",
+  "strong": "génial",
+  "opp": "mauvais"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "single-multipleXX.rankings",
+  "weak": "double",
+  "strong": "triple",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXtasty-tasteless.rankings",
+  "weak": "goûteux",
+  "strong": "épicé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "small-largeXX.rankings",
+  "weak": "grand",
+  "strong": "gigantesque",
+  "opp": "petit"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "fortunate-unfortunateXX.rankings",
+  "weak": "désastreux",
+  "strong": "fatal",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXattractive-unattractive.rankings",
+  "weak": "attirant",
+  "strong": "captivant",
+  "opp": "quelconque"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "hopeful-hopelessXX.rankings",
+  "weak": "morne",
+  "strong": "désespéré",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "favorable-unfavorableXX.rankings",
+  "weak": "critique",
+  "strong": "négatif",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXserious-frivolous.rankings",
+  "weak": "solennel",
+  "strong": "grave",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "open-closedXX.rankings",
+  "weak": "fermé",
+  "strong": "scellé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXinvolved-uninvolved.rankings",
+  "weak": "concerné",
+  "strong": "impliqué",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXavailable-unavailable.rankings",
+  "weak": "disponible",
+  "strong": "visible",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "good-badXX.rankings",
+  "weak": "difficile",
+  "strong": "désespéré",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "big-littleXX.rankings",
+  "weak": "petit",
+  "strong": "nain",
+  "opp": "considérable"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "smooth-roughXX.rankings",
+  "weak": "fendu",
+  "strong": "écrasé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXecht-counterfeit.rankings",
+  "weak": "bon",
+  "strong": "authentique",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXsugary-nonsweet.rankings",
+  "weak": "doux",
+  "strong": "sucré",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXcomposed-discomposed.rankings",
+  "weak": "tranquille",
+  "strong": "serein",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXbeautiful-ugly.rankings",
+  "weak": "attirant",
+  "strong": "splendide",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "noticed-unnoticedXX.rankings",
+  "weak": "ignoré",
+  "strong": "oublié",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "dry-wetXX.rankings",
+  "weak": "moite",
+  "strong": "mouillé",
+  "opp": "sec"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXbig-little.rankings",
+  "weak": "grand",
+  "strong": "immense",
+  "opp": "petit"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "favorable-unfavorableXX.rankings",
+  "weak": "négatif",
+  "strong": "hostile",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "common-uncommonXX.rankings",
+  "weak": "inhabituel",
+  "strong": "rare",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "difficult-easyXX.rankings",
+  "weak": "simple",
+  "strong": "aisé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "virtuous-wickedXX.rankings",
+  "weak": "faux",
+  "strong": "malfaisant",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXample-meager.rankings",
+  "weak": "suffisant",
+  "strong": "bon",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "XXsmart-stupid.rankings",
+  "weak": "malin",
+  "strong": "intelligent",
+  "opp": "idiot"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "honest-dishonestXX.rankings",
+  "weak": "trompeur",
+  "strong": "fallacieux",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "dry-wetXX.rankings",
+  "weak": "mouillé",
+  "strong": "humide",
+  "opp": "sec"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "possible-impossibleXX.rankings",
+  "weak": "irréaliste",
+  "strong": "infaisable",
+  "opp": "possible"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXseductive-unseductive.rankings",
+  "weak": "sexy",
+  "strong": "séduisant",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXaware-incognizant.rankings",
+  "weak": "éveillé",
+  "strong": "conscient",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "XXsmall-large.rankings",
+  "weak": "infime",
+  "strong": "minuscule",
+  "opp": "grand"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "current-noncurrentXX.rankings",
+  "weak": "ancien",
+  "strong": "obsolète",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "single-multipleXX.rankings",
+  "weak": "triple",
+  "strong": "quadruple",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXfat-lean.rankings",
+  "weak": "rondelet",
+  "strong": "gros",
+  "opp": "fin"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "mild-intenseXX.rankings",
+  "weak": "accablant",
+  "strong": "violent",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXgeneral-specific.rankings",
+  "weak": "large",
+  "strong": "universel",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXfar-close.rankings",
+  "weak": "lointain",
+  "strong": "retiré",
+  "opp": "proche"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "possible-impossibleXX.rankings",
+  "weak": "impraticable",
+  "strong": "impossible",
+  "opp": "possible"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "superior-inferiorXX.rankings",
+  "weak": "médiocre",
+  "strong": "pire",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "successful-unsuccessfulXX.rankings",
+  "weak": "frustré",
+  "strong": "vaincu",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "realistic-unrealisticXX.rankings",
+  "weak": "impraticable",
+  "strong": "irréalisable",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "open-closedXX.rankings",
+  "weak": "fermé",
+  "strong": "clos",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXcomprehensive-incomprehensive2.rankings",
+  "weak": "complet",
+  "strong": "universel",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXbeautiful-ugly.rankings",
+  "weak": "beau",
+  "strong": "splendide",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXconcerned-unconcerned.rankings",
+  "weak": "soucieux",
+  "strong": "obsédé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "cardinal-ordinalXX.rankings",
+  "weak": "premier",
+  "strong": "deuxième",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "superior-inferiorXX.rankings",
+  "weak": "mauvais",
+  "strong": "pire",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "smart-stupidXX.rankings",
+  "weak": "idiot",
+  "strong": "stupide",
+  "opp": "malin"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXlike-unlike.rankings",
+  "weak": "pareil",
+  "strong": "même",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXvalid-invalid.rankings",
+  "weak": "valide",
+  "strong": "solide",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "good-badXX.rankings",
+  "weak": "dur",
+  "strong": "pénible",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXcontent-discontent.rankings",
+  "weak": "content",
+  "strong": "ravi",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "XXbeautiful-ugly.rankings",
+  "weak": "joli",
+  "strong": "beau",
+  "opp": "moche"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXhappy-unhappy.rankings",
+  "weak": "content",
+  "strong": "euphorique",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "mild-intenseXX.rankings",
+  "weak": "terrible",
+  "strong": "écrasant",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "good-badXX.rankings",
+  "weak": "mauvais",
+  "strong": "affreux",
+  "opp": "bon"
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "good-badXX.rankings",
+  "weak": "mauvais",
+  "strong": "horrible",
+  "opp": "bon"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "dispensable-indispensableXX.rankings",
+  "weak": "indispensable",
+  "strong": "primordial",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXample-meager.rankings",
+  "weak": "bon",
+  "strong": "plein",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "fat-leanXX.rankings",
+  "weak": "fin",
+  "strong": "squelettique",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "careful-carelessXX.rankings",
+  "weak": "négligent",
+  "strong": "imprudent",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "current-noncurrentXX.rankings",
+  "weak": "ancien",
+  "strong": "désuet",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXintelligent-stupid.rankings",
+  "weak": "futé",
+  "strong": "brilliant",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "XXdry-wet.rankings",
+  "weak": "sec",
+  "strong": "desséché",
+  "opp": "moite"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXquiet-noisy.rankings",
+  "weak": "doux",
+  "strong": "calme",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXfriendly-unfriendly.rankings",
+  "weak": "cordial",
+  "strong": "intime",
+  "opp": "froid"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXample-meager.rankings",
+  "weak": "suffisant",
+  "strong": "plein",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "big-littleXX.rankings",
+  "weak": "minuscule",
+  "strong": "microscopique",
+  "opp": "considérable"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "fit-unfitXX.rankings",
+  "weak": "affaibli",
+  "strong": "handicapé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXmature-green.rankings",
+  "weak": "fait",
+  "strong": "blet",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "dispensable-indispensableXX.rankings",
+  "weak": "nécessaire",
+  "strong": "crucial",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "XXsmall-large.rankings",
+  "weak": "petit",
+  "strong": "minuscule",
+  "opp": "grand"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "hot-coldXX.rankings",
+  "weak": "froid",
+  "strong": "glacé",
+  "opp": "chaleureux"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXserious-frivolous.rankings",
+  "weak": "réel",
+  "strong": "solennel",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "national-internationalXX.rankings",
+  "weak": "multinational",
+  "strong": "global",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "light-darkXX.rankings",
+  "weak": "terne",
+  "strong": "foncé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "attractive-unattractiveXX.rankings",
+  "weak": "quelconque",
+  "strong": "laid",
+  "opp": "attirant"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXsatisfactory-unsatisfactory.rankings",
+  "weak": "acceptable",
+  "strong": "correct",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXquiet-noisy.rankings",
+  "weak": "calme",
+  "strong": "silencieux",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXknown-unknown.rankings",
+  "weak": "connu",
+  "strong": "célèbre",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "XXgood-bad.rankings",
+  "weak": "bon",
+  "strong": "merveilleux",
+  "opp": "mauvais"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXvalid-invalid.rankings",
+  "weak": "valable",
+  "strong": "solide",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXpossible-impossible.rankings",
+  "weak": "possible",
+  "strong": "faisable",
+  "opp": "impraticable"
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "hot-coldXX.rankings",
+  "weak": "chaud",
+  "strong": "froid",
+  "opp": "chaleureux"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXtasty-tasteless.rankings",
+  "weak": "piquant",
+  "strong": "épicé",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "wilkinson",
+  "scale": "difficult-easyXX.rankings",
+  "weak": "facile",
+  "strong": "simple",
+  "opp": "dur"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXcomprehensive-incomprehensive2.rankings",
+  "weak": "exhaustif",
+  "strong": "universel",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXmature-green.rankings",
+  "weak": "mûr",
+  "strong": "fait",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXstimulating-unexciting.rankings",
+  "weak": "touchant",
+  "strong": "passionnant",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXnoxious-innocuous.rankings",
+  "weak": "nuisible",
+  "strong": "mortel",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "big-littleXX.rankings",
+  "weak": "moindre",
+  "strong": "menu",
+  "opp": "considérable"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXstimulating-unexciting.rankings",
+  "weak": "intéressant",
+  "strong": "palpitant",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXtasty-tasteless.rankings",
+  "weak": "goûteux",
+  "strong": "piquant",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "friendly-unfriendlyXX.rankings",
+  "weak": "antipathique",
+  "strong": "hostile",
+  "opp": "amical"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXmany-few.rankings",
+  "weak": "certains",
+  "strong": "nombreux",
+  "opp": "quelques"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "distant-closeXX.rankings",
+  "weak": "proche",
+  "strong": "intime",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "realistic-unrealisticXX.rankings",
+  "weak": "irréalisable",
+  "strong": "impossible",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXcomprehensive-incomprehensive.rankings",
+  "weak": "régional",
+  "strong": "national",
+  "opp": null
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "attractive-unattractiveXX.rankings",
+  "weak": "quelconque",
+  "strong": "moche",
+  "opp": "attirant"
+ },
+ {
+  "lang": "fr",
+  "src": "demelo",
+  "scale": "XXaware-incognizant.rankings",
+  "weak": "vivant",
+  "strong": "éveillé",
+  "opp": null
+ }
+]

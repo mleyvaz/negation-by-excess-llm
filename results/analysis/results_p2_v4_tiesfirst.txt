@@ -1,0 +1,90 @@
+prompts with >1 answer: 1780; inconsistent: 105 (5.9%); ties dropped: 85
+usable raw responses (5 models): 22317
+sources in 427 set: Counter({'demelo': 321, 'wilkinson': 55, 'crowd': 51})
+sources in 251 set: Counter({'demelo': 164, 'wilkinson': 50, 'crowd': 33})
+
+yes-rate by model: {'gemini-3.1-flash-lite': 0.344, 'gpt-4o-mini': 0.382, 'gpt-5.4-mini': 0.403, 'gpt-5.4-nano': 0.438, 'qwen3.7-flash': 0.372}
+
+======================================================================
+FULL (427 pairs) units 2135 known 804 known+P 751
+  all: P=76.3% (n=2135)  N=97.8% (n=2135)  E=21.8% (n=2135)  S=92.4% (n=2135)  D=92.8% (n=540)  N_b=72.7% (n=2135)  E_b=56.1% (n=2133)  S_b=92.9% (n=2135)  Erather=30.6% (n=710)  Epero=14.4% (n=695)
+  known: P=93.4% (n=804)  N=98.3% (n=804)  E=37.9% (n=804)  S=94.4% (n=804)  D=92.4% (n=264)  N_b=73.4% (n=804)  E_b=66.4% (n=804)  S_b=93.7% (n=804)  Erather=47.3% (n=313)  Epero=25.9% (n=282)
+  known+P: P=100.0% (n=751)  N=98.4% (n=751)  E=39.8% (n=751)  S=94.1% (n=751)  D=92.5% (n=252)  N_b=74.0% (n=751)  E_b=68.4% (n=751)  S_b=94.1% (n=751)  Erather=49.3% (n=294)  Epero=27.1% (n=269)
+  NON-CIRCULAR P vs E (known): P-right&E-wrong=452 E-right&P-wrong=6 p=3.38e-125
+     [en] 188 vs 1
+     [es] 132 vs 2
+     [fr] 132 vs 3
+  S vs E (known+P): S-right&E-wrong=415 E-right&S-wrong=7 p=8.45e-113
+     [en] 162 vs 3 p=3.2e-44
+     [es] 130 vs 0 p=1.47e-39
+     [fr] 123 vs 4 p=1.25e-31
+  REVERSED QUESTION for E (known+P): coherent correct(E yes,E_b no)=252 literal-below(E no,E_b yes)=190 'no' to both=262 'yes' to both=47 n=751
+     S coherent=674/751
+  EN 'but rather' vs 'but' (known+P): rather-right&but-wrong=55 but-right&rather-wrong=16 p=3.75e-06 | rather 49.3% (n=294) but 36.1% (n=294)
+  ES (descriptive only) sino 50.9% (n=269) | concessive pero 27.1% (n=269)
+  HOLM: {'P_vs_E_known': '2.03e-124', 'S_vs_E_knownP': '4.22e-112', 'S_vs_E_en': '1.28e-43', 'S_vs_E_es': '4.41e-39', 'S_vs_E_fr': '2.51e-31', 'rather_vs_but': '3.75e-06'}
+  E by model x lang (known+P):
+lang                      en     es     fr
+model                                     
+gemini-3.1-flash-lite  0.371  0.544  0.278
+gpt-4o-mini            0.099  0.279  0.061
+gpt-5.4-mini           0.610  0.702  0.708
+gpt-5.4-nano           0.446  0.735  0.412
+qwen3.7-flash          0.406  0.364  0.267
+  by model (known+P):
+cond                     P      N      E      S
+model                                          
+gemini-3.1-flash-lite  1.0  1.000  0.413  0.974
+gpt-4o-mini            1.0  1.000  0.149  0.823
+gpt-5.4-mini           1.0  0.964  0.670  0.973
+gpt-5.4-nano           1.0  0.971  0.540  0.986
+qwen3.7-flash          1.0  0.976  0.354  0.982
+  COMMON ITEMS (known+P for all 5 models): 48 pairs; E by model: {'gemini-3.1-flash-lite': 0.604, 'gpt-4o-mini': 0.333, 'gpt-5.4-mini': 0.771, 'gpt-5.4-nano': 0.75, 'qwen3.7-flash': 0.625}
+  GEE (known+P):
+                   OR      lo      hi       p
+C(cond)[T.N]   3.9506  1.9761  7.8980  0.0001
+C(cond)[T.E]   0.0259  0.0173  0.0386  0.0000
+C(lang)[T.es]  2.5125  1.5880  3.9753  0.0001
+C(lang)[T.fr]  0.9911  0.6450  1.5228  0.9673
+
+======================================================================
+SCREENED (251 pairs) units 1235 known 645 known+P 614
+  all: P=86.2% (n=1235)  N=97.7% (n=1235)  E=30.6% (n=1235)  S=94.7% (n=1235)  D=92.4% (n=445)  N_b=72.9% (n=1235)  E_b=60.7% (n=1233)  S_b=93.1% (n=1235)  Erather=41.0% (n=395)  Epero=19.3% (n=440)
+  known: P=95.2% (n=645)  N=97.8% (n=645)  E=41.6% (n=645)  S=95.2% (n=645)  D=92.0% (n=250)  N_b=74.0% (n=645)  E_b=67.0% (n=645)  S_b=94.0% (n=645)  Erather=50.2% (n=251)  Epero=28.5% (n=228)
+  known+P: P=100.0% (n=614)  N=98.0% (n=614)  E=43.2% (n=614)  S=95.1% (n=614)  D=92.1% (n=239)  N_b=75.1% (n=614)  E_b=69.2% (n=614)  S_b=94.6% (n=614)  Erather=51.7% (n=240)  Epero=29.3% (n=222)
+  NON-CIRCULAR P vs E (known): P-right&E-wrong=349 E-right&P-wrong=3 p=1.58e-99
+     [en] 146 vs 0
+     [es] 102 vs 1
+     [fr] 101 vs 2
+  S vs E (known+P): S-right&E-wrong=325 E-right&S-wrong=6 p=8.13e-88
+     [en] 128 vs 2 p=1.25e-35
+     [es] 101 vs 0 p=7.89e-31
+     [fr] 96 vs 4 p=6.45e-24
+  REVERSED QUESTION for E (known+P): coherent correct(E yes,E_b no)=221 literal-below(E no,E_b yes)=145 'no' to both=204 'yes' to both=44 n=614
+     S coherent=558/614
+  EN 'but rather' vs 'but' (known+P): rather-right&but-wrong=46 but-right&rather-wrong=16 p=0.000176 | rather 51.7% (n=240) but 39.2% (n=240)
+  ES (descriptive only) sino 54.1% (n=222) | concessive pero 29.3% (n=222)
+  HOLM: {'P_vs_E_known': '9.51e-99', 'S_vs_E_knownP': '4.06e-87', 'S_vs_E_en': '5.01e-35', 'S_vs_E_es': '2.37e-30', 'S_vs_E_fr': '1.29e-23', 'rather_vs_but': '0.000176'}
+  E by model x lang (known+P):
+lang                      en     es     fr
+model                                     
+gemini-3.1-flash-lite  0.380  0.571  0.290
+gpt-4o-mini            0.107  0.349  0.079
+gpt-5.4-mini           0.622  0.714  0.696
+gpt-5.4-nano           0.478  0.725  0.480
+qwen3.7-flash          0.471  0.375  0.314
+  by model (known+P):
+cond                     P      N      E      S
+model                                          
+gemini-3.1-flash-lite  1.0  1.000  0.431  0.992
+gpt-4o-mini            1.0  1.000  0.175  0.818
+gpt-5.4-mini           1.0  0.961  0.676  0.971
+gpt-5.4-nano           1.0  0.964  0.568  1.000
+qwen3.7-flash          1.0  0.970  0.396  0.993
+  COMMON ITEMS (known+P for all 5 models): 46 pairs; E by model: {'gemini-3.1-flash-lite': 0.609, 'gpt-4o-mini': 0.348, 'gpt-5.4-mini': 0.783, 'gpt-5.4-nano': 0.739, 'qwen3.7-flash': 0.63}
+  GEE (known+P):
+                   OR      lo      hi       p
+C(cond)[T.N]   2.6396  1.2894  5.4036  0.0079
+C(cond)[T.E]   0.0253  0.0164  0.0391  0.0000
+C(lang)[T.es]  2.2987  1.3632  3.8765  0.0018
+C(lang)[T.fr]  1.0034  0.6150  1.6371  0.9892
