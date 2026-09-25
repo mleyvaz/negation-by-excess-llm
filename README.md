@@ -1,6 +1,6 @@
 # Knowing the Scale, Missing the Negation
 
-Data and code for the paper **"Knowing the Scale, Missing the Negation: Language Models and Corrective Negation by Excess in English, Spanish, and French"** (Maikel Yelandi Leyva Vázquez, Universidad Bernardo O'Higgins / Universidad de Guayaquil; Alexis Matheu Pérez and Bastián Gutiérrez Vargas, Universidad Bernardo O'Higgins). Manuscript under review.
+Data and code for the paper **"Knowing the Scale, Missing the Negation: Language Models and Corrective Negation by Excess in English, Spanish, and French"** (Maikel Yelandi Leyva Vázquez, Universidad Bernardo O'Higgins / Universidad de Guayaquil; Alexis Matheu Pérez and Bastián Gutiérrez Vargas, Universidad Bernardo O'Higgins). Preprint: Research Square, rs-11167683 (September 2026).
 
 The study tests whether large language models understand *corrective negation by excess*, as in "it is not dim but dark", where "not" rejects the weaker adjective as too weak rather than denying it. For each adjective pair, a model is first tested on the scale ordering and on the affirmative entailment ("it is dark; is it at least dim?"). Its reading of corrective negation is then analysed only on the pairs where it passed those tests.
 
@@ -49,7 +49,7 @@ Code: MIT License. Data produced in this study (items, raw responses, screening 
 
 ## Citation
 
-Leyva Vázquez, M. Y., Matheu Pérez, A., & Gutiérrez Vargas, B. (2026). *Knowing the scale, missing the negation: Language models and corrective negation by excess in English, Spanish, and French* [Manuscript submitted for publication].
+Leyva Vázquez, M. Y., Matheu Pérez, A., & Gutiérrez Vargas, B. (2026). *Knowing the scale, missing the negation: Language models and corrective negation by excess in English, Spanish, and French* [Preprint]. Research Square. https://www.researchsquare.com/article/rs-11167683
 
 ## References
 
