@@ -16,7 +16,8 @@ The study tests whether large language models understand *corrective negation by
 | `results/raw/*.jsonl` | Raw model responses (OpenRouter, temperature 0), one JSON object per query |
 | `results/analysis/results_p2_v4.txt` | Output of the analysis reported in the paper (full and screened sets) |
 | `results/analysis/results_p2_v4_tiesfirst.txt` | Sensitivity analysis resolving tied repeated answers by the first answer |
-| `code/` | Scripts to build items, query models, and analyse results |
+| `code/` | Scripts to build items, query models, and analyse results (`make_figures.py` draws the figures from the analysis output) |
+| `results/figures/` | Figures 1 and 2 of the paper (PNG, 600 dpi, and PDF) |
 | `get_scales.sh` | Downloads the source scale resources (not redistributed here) |
 
 ## Source scales
