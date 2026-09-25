@@ -1,6 +1,6 @@
 # Knowing the Scale, Missing the Negation
 
-Data and code for the paper **"Knowing the Scale, Missing the Negation: Language Models and Corrective Negation by Excess in English, Spanish, and French"** (Maikel Yelandi Leyva Vázquez, Universidad Bernardo O'Higgins / Universidad Bolivariana del Ecuador). Manuscript under review.
+Data and code for the paper **"Knowing the Scale, Missing the Negation: Language Models and Corrective Negation by Excess in English, Spanish, and French"** (Maikel Yelandi Leyva Vázquez, Universidad Bernardo O'Higgins / Universidad Bolivariana del Ecuador; Bastián Gutiérrez Vargas, Universidad Bernardo O'Higgins). Manuscript under review.
 
 The study tests whether large language models understand *corrective negation by excess*, as in "it is not dim but dark", where "not" rejects the weaker adjective as too weak rather than denying it. For each adjective pair, a model is first tested on the scale ordering and on the affirmative entailment ("it is dark; is it at least dim?"). Its reading of corrective negation is then analysed only on the pairs where it passed those tests.
 
@@ -12,7 +12,7 @@ The study tests whether large language models understand *corrective negation by
 | `data/items_p2.json` | Main items: ordering (A, Arev), plain negation (N), lexical corrective (E), same-word corrective (S), downward corrective (D) |
 | `data/items_p2_v2.json` | Control items: affirmative entailment (P), reversed questions (N_b, E_b, S_b), *but rather* (EN) and *pero* (ES) |
 | `data/excluded_pids.json` | 23 pairs excluded as ungrammatical or invalid (quantifiers, ordinals, antonym = X) |
-| `data/screened_pids.json` | 180 further pairs set aside by the author's screening, with the category of each |
+| `data/screened_pids.json` | 180 further pairs set aside by the first author's screening, with the category of each |
 | `results/raw/*.jsonl` | Raw model responses (OpenRouter, temperature 0), one JSON object per query |
 | `results/analysis/results_p2_v4.txt` | Output of the analysis reported in the paper (full and screened sets) |
 | `results/analysis/results_p2_v4_tiesfirst.txt` | Sensitivity analysis resolving tied repeated answers by the first answer |
@@ -49,7 +49,7 @@ Code: MIT License. Data produced in this study (items, raw responses, screening 
 
 ## Citation
 
-Leyva Vázquez, M. Y. (2026). *Knowing the scale, missing the negation: Language models and corrective negation by excess in English, Spanish, and French* [Manuscript submitted for publication].
+Leyva Vázquez, M. Y., & Gutiérrez Vargas, B. (2026). *Knowing the scale, missing the negation: Language models and corrective negation by excess in English, Spanish, and French* [Manuscript submitted for publication].
 
 ## References
 
